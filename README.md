@@ -1,6 +1,6 @@
 # DSA-PROBLEMS-PATTERN-FARZ-INTERVIEW-SHEET
 
-This repository contains my **pattern-wise Data Structures & Algorithms (DSA) preparation** based on the **Faraz Interview Sheet**. The goal of this repo is to build strong problem‑solving fundamentals, improve interview performance, and prepare for **product-based companies**.
+This repository contains my **pattern-wise Data Structures & Algorithms (DSA) preparation** based on the **Fraz Interview Sheet**. The goal of this repo is to build strong problem‑solving fundamentals, improve interview performance, and prepare for **product-based companies**.
 
 ---
 
@@ -62,7 +62,7 @@ The problems are organized **pattern-wise** as follows:
 ## 📁 Repository Structure
 
 ```text
-📦 Faraz-Interview-Sheet-DSA
+📦 Fraz-Interview-Sheet-DSA
  ┣ 📂 Arrays
  ┣ 📂 TwoPointers
  ┣ 📂 SlidingWindow
